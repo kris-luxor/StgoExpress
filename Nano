@@ -1,1 +1,1 @@
-nano ~/.bashrc
+source ~/.bashrc
